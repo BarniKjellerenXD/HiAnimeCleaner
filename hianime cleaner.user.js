@@ -2,8 +2,8 @@
 // @name         hianime cleaner
 // @namespace    http://tampermonkey.net/
 // @version      2024-08-27
-// @description  try to take over the world!
-// @author       You
+// @description  a user script for the hianime website that cleans it up for you.
+// @author       BarniKjelleren
 // @match        https://hianime.to/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=hianime.to
 // @grant        none
